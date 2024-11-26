@@ -1,0 +1,9 @@
+signature-matching-siamese-neural-networks
+https://www.kaggle.com/code/rudrakshjoshi5/signature-matching-siamese-neural-networks/notebook
+
+signature-matching-using-signet
+https://www.kaggle.com/code/mallapraveen/signature-matching-using-signet/notebook
+
+siamese-signature-verification-with-confidence
+https://www.kaggle.com/code/medali1992/siamese-signature-verification-with-confidence
+

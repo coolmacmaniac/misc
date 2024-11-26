@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/mallapraveen/signature-matching/data
+
+https://www.kaggle.com/code/rudrakshjoshi5/signature-matching-siamese-neural-networks/input
+

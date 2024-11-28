@@ -1,0 +1,9 @@
+unsupervised-fraud-detection-isolation-forest
+https://www.kaggle.com/code/rgaddati/unsupervised-fraud-detection-isolation-forest/notebook
+
+anomaly-detection-isolation-forest-visualization
+https://www.kaggle.com/code/adithya44/anomaly-detection-isolation-forest-visualization/notebook
+
+fraud-detection-using-isolation-forest
+https://www.kaggle.com/code/nilanml/fraud-detection-using-isolation-forest/notebook
+
